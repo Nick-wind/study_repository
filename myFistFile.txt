@@ -4,5 +4,6 @@ Git is free software distributed under the GPL.
 Hello! I'm Nick! Nice too meet you!
 OK！ 
 Are you ok?
+This is an error! Please listening me speak!
 ```
 
